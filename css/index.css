@@ -1,0 +1,38 @@
+body {
+    font-family: 'Bangers', cursive;
+    text-align: center;
+}
+
+main {
+    margin-top: 45px;
+}
+
+.logo a {
+    font-size: 35px;
+}
+
+.texto {
+    font-size: 20px;
+}
+
+.caixa {
+    margin-top: 20px;
+    font-family: 'Jost', sans-serif;
+    font-size: 22px;
+    max-width: 600px;
+}
+
+.titulo {
+    text-align: center;
+    font-size: 32px;
+}
+
+.backTest {
+    background-color: #8a2be2;
+}
+
+.btnPesquisar {
+    margin: 10px;
+    padding: 2.5px;
+    width: 80px;
+}
